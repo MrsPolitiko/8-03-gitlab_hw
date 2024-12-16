@@ -1,7 +1,5 @@
 *.md
 *.log
 *.yaml
-Vagrantfile
 Dockerfile
 !README.md
-!gitlab/Vagrantfile
