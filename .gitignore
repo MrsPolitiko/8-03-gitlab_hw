@@ -4,4 +4,4 @@
 Vagrantfile
 Dockerfile
 !README.md
-
+!gitlab/Vagrantfile
