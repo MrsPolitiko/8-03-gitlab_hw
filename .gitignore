@@ -1,0 +1,7 @@
+*.md
+*.log
+*.yaml
+Vagrantfile
+Dockerfile
+!README.md
+
